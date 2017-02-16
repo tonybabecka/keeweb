@@ -35,7 +35,7 @@
     "webdav": true, // enable WebDAV
 
     "gdrive": true, // enable Google Drive
-    "gdriveClientId": 1010561336258-idl3iqgdn3036flssk00dcs7otdtd47d.apps.googleusercontent.com, // custom client id
+    "gdriveClientId": "1010561336258-ck23ljma14437mingnp4pbtmbraoev1s.apps.googleusercontent.com", // custom client id
 
     "onedrive": true, // enable OneDrive
     "onedriveClientId": null // custom client id

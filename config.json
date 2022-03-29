@@ -1,0 +1,8 @@
+{
+    "settings": {
+
+ gdrive: true, // enable Google Drive integration
+    gdriveClientId: 358057245747-ge82m3osp120lfmbhns1qdp7l4ohl3qn.apps.googleusercontent.com
+    gdriveClientSecret: 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
+}
+}
